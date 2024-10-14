@@ -5,6 +5,9 @@ Description This project involves the creation of a detailed land use map for th
 Files and Structure
 
 /data: Contains the raw and processed data.
+
 /scripts: Python scripts used for data processing and classification.
+
 /outputs: Final land use map and related files.
+
 README.md: Project documentation.
